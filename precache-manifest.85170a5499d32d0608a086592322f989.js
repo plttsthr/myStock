@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/static/media/primeicons.c08d00ca.eot"
   },
   {
-    "revision": "acb19296cb26b15dcf42e13c603217f2",
-    "url": "/static/media/primeicons.acb19296.ttf"
-  },
-  {
     "revision": "062070972fbad0f4fbb3505e6d013a39",
     "url": "/static/media/primeicons.06207097.woff"
+  },
+  {
+    "revision": "acb19296cb26b15dcf42e13c603217f2",
+    "url": "/static/media/primeicons.acb19296.ttf"
   },
   {
     "revision": "1d854e3ab2c37173804a0d1d1af229ee",
