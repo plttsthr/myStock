@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "33ac1212735885cfb92b",
-    "url": "/myStock/static/css/main.6488e616.chunk.css"
+    "revision": "b163739ae79eccf82282",
+    "url": "/myStock/static/css/main.f1a20c29.chunk.css"
   },
   {
-    "revision": "33ac1212735885cfb92b",
+    "revision": "b163739ae79eccf82282",
     "url": "/myStock/static/js/main.b74eea67.chunk.js"
   },
   {
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/myStock/static/media/user.5683f671.png"
   },
   {
-    "revision": "c0929a1e055f2ceb5c889501c24a24e1",
-    "url": "/myStock/static/media/primeicons.c0929a1e.woff2"
-  },
-  {
     "revision": "c08d00cac4f2edb5ade360a193fcd08e",
     "url": "/myStock/static/media/primeicons.c08d00ca.eot"
+  },
+  {
+    "revision": "c0929a1e055f2ceb5c889501c24a24e1",
+    "url": "/myStock/static/media/primeicons.c0929a1e.woff2"
   },
   {
     "revision": "062070972fbad0f4fbb3505e6d013a39",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/myStock/static/media/primeicons.1d854e3a.svg"
   },
   {
-    "revision": "347292bef7cec7ceea1eaae356fad23f",
+    "revision": "d26a61f5962c40392d82df5eea263851",
     "url": "/myStock/index.html"
   }
 ];
